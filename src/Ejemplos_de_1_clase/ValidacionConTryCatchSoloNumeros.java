@@ -1,4 +1,4 @@
-package Programacion;
+package Ejemplos_de_1_clase;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
